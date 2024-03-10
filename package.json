@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.4.9"
+    "astro": "^4.4.15"
   },
   "devDependencies": {
     "cssnano": "^5.1.14",

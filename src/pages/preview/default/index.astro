@@ -1,0 +1,15 @@
+---
+import { Image } from "astro:assets";
+import Layout from "../../../layouts/Layout.astro";
+
+import logo from "../../../assets/img/logo.svg";
+---
+
+<Layout title="Welcome to JoCode.net" description="Page description">
+  <div class="bg-dark">
+    <Image src={logo} alt="JoCode.net" />
+  </div>
+  <main>
+    <h1>Preview Page per project</h1>
+  </main>
+</Layout>
