@@ -1,18 +1,10 @@
 ---
-import { Image } from "astro:assets";
-import Layout from "../layouts/Layout.astro";
-
-import logo from "../assets/img/logo.svg";
+import BaseLayout from '@/layouts/BaseLayout'
 ---
 
-<Layout title="Welcome to JoCode.net" description="Page description">
-  <div class="bg-dark">
-    <Image src={logo} alt="JoCode.net" />
-  </div>
-  <main>
-    <a href="/">Home (Logo)</a>
-    <a href="/preview/default/">Preview theme</a>
-    <a href="/components/">Components</a>
-    <a href="/docs/">Docs</a>
-  </main>
-</Layout>
+<BaseLayout>
+	<div class='text'>
+		<h1>Test</h1>
+		<a class='btn btn-primary' href='/blog'>Blog</a>
+	</div>
+</BaseLayout>
