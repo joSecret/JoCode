@@ -1,40 +1,29 @@
-<div align="center">
-
-<img src="public/project.png" alt="Screenshot" />
-
-<hr/>
-
-<h3 align="center">
- ⭐ Leave a star if you like this project! ⭐️
-</h3>
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdanielcgilibert%2Fblog-template)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danielcgilibert/blog-template)
-
-</div>
+⭐ Leave a star if you like this project! ⭐️
 
 ## 📌 Table Of Contents
 
-1. [Demo](#-Demo)
-2. [CMS](#-Tina-CMS)
-3. [Features](#-Features)
-4. [Roadmap](#-Roadmap)
-5. [Stack](#-Stack)
-6. [Running locally](#-Running-Locally)
-7. [Configure](#-Configure)
-8. [Categories](#-Adding-a-category)
-9. [Posts](#-Adding-a-post)
-10. [Draft](#-Activating-draft-mode)
-11. [FrontMatter](#-Frontmatter)
-12. [CLI](#-Commands)
-13. [Contributors](#-Contributors)
+- [📌 Table Of Contents](#-table-of-contents)
+- [💻 Demo](#-demo)
+- [🦙 Tina CMS](#-tina-cms)
+- [💪 Features:](#-features)
+- [🛣️ Roadmap](#️-roadmap)
+- [⚙️ Stack](#️-stack)
+- [👨🏻‍💻 Running Locally](#-running-locally)
+- [📐 Configure](#-configure)
+- [🗂️ Adding a category](#️-adding-a-category)
+- [📄 Adding a post](#-adding-a-post)
+- [📝 Activating draft mode](#-activating-draft-mode)
+- [⚡️ Frontmatter](#️-frontmatter)
+- [Required properties:](#required-properties)
+- [Optional properties:](#optional-properties)
+- [🧞 Commands](#-commands)
+- [👋 Contributors](#-contributors)
 
 ## 💻 Demo
 
-Check out the [Demo](https://blog-template-gray.vercel.app/), hosted on Vercel
+Check the [Demo](https://blog-template-gray.vercel.app/)
 <br/>
 
-https://github.com/danielcgilibert/blog-template/assets/44746462/56b8399e-cc5b-45a8-b9d2-d69833ecadb1
 
 ## 🦙 Tina CMS
 
@@ -45,8 +34,6 @@ Now you can create your posts directly from the CMS without the need to do it ma
 If you decide to use Tina, it's not necessary to add any properties to the Markdown files, Tina does it automatically.
 
 Example:
-
-https://github.com/danielcgilibert/blog-template/assets/44746462/51ae324c-d383-40be-9b16-db159d1af15d
 
 The documentation for Tina CMS can be found [here](https://tina.io/docs/)
 
@@ -59,7 +46,7 @@ The documentation for Tina CMS can be found [here](https://tina.io/docs/)
     <img width="510" alt="openblog Lighthouse Score" src="public/openblog-lighthouse-score.svg">
   <a>
 </p>
-    
+
 - ✅ Minimal styling
 - ✅ Mobile responsive
 - ✅ 100/100 Lighthouse performance
